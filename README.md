@@ -1,6 +1,5 @@
 # myNotes
-#### Hello I'am Haya Al-Sughair graduated from WISE university with Computer Science major 
-:blush:
+#### Hello I'am Haya Al-Sughair graduated from WISE university with Computer Science major :blush:
 
 ## Topics we learned in First Lecture :
 > CLI & GUI :
